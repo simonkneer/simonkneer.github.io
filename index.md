@@ -12,7 +12,7 @@ A system of equations
 is called equivariant with respect to a symmetry operation
 <img src="https://render.githubusercontent.com/render/math?math=\gamma"> if
 
-<img src="https://render.githubusercontent.com/render/math?math= \gamma F(\mathbf{U}) = F(\gamma \mathbf{U})">
+<img src="https://render.githubusercontent.com/render/math?math= \gamma F(\mathbf{U}">
 
 
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
