@@ -5,7 +5,11 @@
 
 
 ### Invariant solutions
+Given a system of equations
+<img src="https://render.githubusercontent.com/render/math?math=\frac{\partial U}{\partial t} = -1">
+
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
