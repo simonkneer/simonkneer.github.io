@@ -2,8 +2,10 @@
 
 >Symmetry-Aware Autoencoders have been developed in order to combat issues arising in model reduction methods that arise when invariant solutions are present in the dataset.
 
-### Invariant solutions
 
+
+### Invariant solutions
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
