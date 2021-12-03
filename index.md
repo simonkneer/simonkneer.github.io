@@ -1,7 +1,9 @@
-## Symmetry-Aware Autoencoding: 
-## s-PCA and s-nlPCA
+## Symmetry-Aware Autoencoders: s-PCA and s-nlPCA
 
-You can use the [editor on GitHub](https://github.com/simonkneer/simonkneer.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+>Symmetry-Aware Autoencoders have been developed in order to combat issues arising in model reduction methods that arise when invariant solutions are present in the dataset.
+
+### Invariant solutions
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
