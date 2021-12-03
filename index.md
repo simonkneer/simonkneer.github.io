@@ -17,7 +17,7 @@ is called equivariant with respect to a symmetry operation
 and consequently the solution <img src="https://render.githubusercontent.com/render/math?math=\mathbf{U}"> is invariant.
 That is:
 
-**If <img src="https://render.githubusercontent.com/render/math?math=\mathbf{U}"> is a solution so is <img src="https://render.githubusercontent.com/render/math?math=\gamma\mathbf{U}">
+**If <img src="https://render.githubusercontent.com/render/math?math=\mathbf{U}"> is a solution so is <img src="https://render.githubusercontent.com/render/math?math=\gamma\mathbf{U}">**
 
 
 
