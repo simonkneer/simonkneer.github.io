@@ -5,9 +5,13 @@
 
 
 ### Invariant solutions
-Given a system of equations
+A system of equations
 
-<img src="https://render.githubusercontent.com/render/math?math=\frac{\partial \mathbf{U}}{\partial t} = -1">
+<img src="https://render.githubusercontent.com/render/math?math=\frac{\partial \mathbf{U}}{\partial t} = F(\mathbf{U})">
+
+is called equivariant with respect to a symmetry operation
+<img src="https://render.githubusercontent.com/render/math?math=\gamma">
+
 
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
