@@ -7,7 +7,7 @@
 ### Invariant solutions
 Given a system of equations
 
-<img src="https://render.githubusercontent.com/render/math?math=\frac{\partial U}{\partial t} = -1">
+<img src="https://render.githubusercontent.com/render/math?math=\frac{\partial \mathbf{U}}{\partial t} = -1">
 
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
